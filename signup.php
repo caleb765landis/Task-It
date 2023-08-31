@@ -3,7 +3,7 @@
 
 	require_once"dbconnect.php";
 
-	require_once "inc/util.php";
+	require_once "util/util.php";
 ?>
 
 <!DOCTYPE html>

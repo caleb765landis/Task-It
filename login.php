@@ -1,7 +1,7 @@
 <?php  session_start(); //this must be the very first line on the php page, to register this page to use session variables
 	$_SESSION['timeout'] = time(); //record the time at the user login
 
-	require_once "inc/util.php";
+	require_once "util/util.php";
 	require_once "dbconnect.php";
 ?>
 

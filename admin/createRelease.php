@@ -2,7 +2,7 @@
 
 
 	//if this is a page that requires login always perform this session verification
-	//require_once "../inc/sessionVerify.php";
+	//require_once "../util/sessionVerify.php";
 	require_once "../dbconnect.php";
 
     $fn = "";
