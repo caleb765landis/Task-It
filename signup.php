@@ -232,7 +232,7 @@
 
                             <!-- log in link -->
                             <p class="text-muted" style="width: 260px;display: inline-flex;">
-                              Already have an account?&nbsp;<a href="login.html">Log in</a>
+                              Already have an account?&nbsp;<a href="login.php">Log in</a>
                             </p>
                           </form> <!-- end form -->
                           <div style="width: 533px;"></div>
